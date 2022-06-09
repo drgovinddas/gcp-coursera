@@ -35,5 +35,38 @@ gsutil mb gs://$minecraftbucketbhenchod-minecraft-backup
 echo customercarebucket=$customercarebucket >> ~/.profile
 ******LEFT INCOMPLETE-CUSTOMER CARE CONTACTED*****
 //////////////NEW COURSE- ESSENTIAL GOOGLE CLOUD INFRASTRUCTURE- CORE SERVICES///
+export BUCKET_NAME_1=bucket-qwiklabs-gcp-04-efd1062891a5
+echo $BUCKET_NAME_1
+
+b'PLStIZmHqH6AqrWgH/7TVdSLAfQdVyiI0GVLWCc6VrA=\n'
+SId11gC/jgFwE/xU7NGAxhDEAKXWRKrPbAKIbxo33fs=
+gs://bucket-qwiklabs-gcp-04-efd1062891a5/setup.html#1654773252239256
+
+export BUCKET_NAME_2=bucket-qwiklabs-gcp-04-f126e77489b5
+export FILE_NAME=FILE_NAME.png
+gsutil cp credentials.json gs://$bucket-qwiklabs-gcp-04-f126e77489b5/
+
+[SQL_CONNECTION_NAME]   qwiklabs-gcp-04-bae414a9aa54:us-central1:wordpress-db
+export SQL_CONNECTION=qwiklabs-gcp-04-bae414a9aa54:us-central1:wordpress-db
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
