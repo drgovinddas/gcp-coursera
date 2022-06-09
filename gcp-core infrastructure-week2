@@ -32,3 +32,8 @@ export YOUR_BUCKET_NAME=minecraftbucketbhenchod
 echo $minecraftbucketbhenchod
 gsutil mb gs://$minecraftbucketbhenchod-minecraft-backup
 
+echo customercarebucket=$customercarebucket >> ~/.profile
+******LEFT INCOMPLETE-CUSTOMER CARE CONTACTED*****
+//////////////NEW COURSE- ESSENTIAL GOOGLE CLOUD INFRASTRUCTURE- CORE SERVICES///
+
+
